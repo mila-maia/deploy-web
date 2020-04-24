@@ -1,5 +1,3 @@
-# index.js
-%%javascript
 let canvas = document.querySelector('canvas');
 let ctx_ = document.getElementById('chart').getContext('2d');
 
