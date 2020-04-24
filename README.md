@@ -1,2 +1,2 @@
-# depy-web
+# deploy-web
 deploy web tensorflowjs
